@@ -1,3 +1,9 @@
+*.png
+*.vcd
+*.ghw
+*.cf
 *.o
 *.bak
-*tmp*
+*.txt
+*.doc
+*.docx
